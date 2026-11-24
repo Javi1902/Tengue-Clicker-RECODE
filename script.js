@@ -22,4 +22,3 @@ btns.forEach(boton => {
           })
       }
   });
-
