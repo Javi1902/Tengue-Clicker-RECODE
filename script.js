@@ -7,7 +7,11 @@ let scores = [{
 const displays = [{
     displayName: "scoreDisplay",
     displayId: document.getElementById("scoreDisplay"),
-}];
+},
+  {
+    displayName: "tenguenarioDisplay",
+    displayId: document.getElementById("tenguenarioDisplay")
+  }];
 
 const btns = [
   {
